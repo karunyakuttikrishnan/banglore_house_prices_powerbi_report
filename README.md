@@ -5,3 +5,6 @@ This report includes 2 pages, house price and location. You can navigate from th
 
 Please find the below attached link for the dataset:</br>
 https://drive.google.com/file/d/1yD-CHWVkt5TAXNN1zkl5GDgmcrpMizwx/view?usp=drive_link
+
+Please find the below link for powerbi report
+https://drive.google.com/file/d/1cTGdudi7b9wHFsnKzdhOc96T-SdzmFmZ/view?usp=drive_link
